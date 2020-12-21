@@ -1,0 +1,46 @@
+/***********************TAG SELECTORS*********************/
+
+body{
+  background-color: #ff4646;
+}
+
+h1{
+  color: #fff5c0;
+  font-size:100;
+  font-style: oblique;
+  text-align: center;
+}
+p{
+  color:#fff5c1;
+  font-size:50;
+  font-style: oblique;
+  text-align:center;
+}
+img{
+  background-color:#ff4646;
+  height:100;
+  width: 10%;
+}
+/***********************CLASS SELECTORS*********group related item****name********/
+.Bacon{
+  background-color: green;
+
+}
+.Broccoli {
+  background-color: #f05454;
+}
+.circular{
+  border-radius:100%;
+}
+.hover:hover{
+  background-color: white;
+}
+.heading{
+  color:#222831;
+  font-size: 122px;
+}
+/***********************ID SELECTORS***************specific style to a single element***passport***/
+#heading{
+  color:#222831;
+  font-size: 122px;
+}
